@@ -1,0 +1,46 @@
+_repo: The-Story-of-London_46618
+contributor:
+  illustrators:
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+  - agent_name: Godfrey, W.H.
+    gutenberg_agent_id: '43877'
+    url: http://www.gutenberg.org/2009/agents/43877
+  - agent_name: Kimball, Katharine
+    aliases:
+    - Kimball, K.
+    - Kimball, Katherine
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '42689'
+    url: http://www.gutenberg.org/2009/agents/42689
+covers:
+- cover_type: archival
+  image_path: 46618/46618-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2014-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Story of London
+url: http://www.gutenberg.org/ebooks/46618
